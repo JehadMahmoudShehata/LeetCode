@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\LeetCode\\Merge_Strings_Alternately\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2597BE1E-3438-4A48-8027-777D3562650A}|Merge_Strings_Alternately\\Merge_Strings_Alternately.vcxproj|C:\\Users\\lenovo\\Desktop\\LeetCode\\Merge_Strings_Alternately\\Merge_Strings_Alternately\\Merge_Strings_Alternately.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2597BE1E-3438-4A48-8027-777D3562650A}|Merge_Strings_Alternately\\Merge_Strings_Alternately.vcxproj|solutionrelative:Merge_Strings_Alternately\\Merge_Strings_Alternately.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Merge_Strings_Alternately.cpp",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\LeetCode\\Merge_Strings_Alternately\\Merge_Strings_Alternately\\Merge_Strings_Alternately.cpp",
+              "RelativeDocumentMoniker": "Merge_Strings_Alternately\\Merge_Strings_Alternately.cpp",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\LeetCode\\Merge_Strings_Alternately\\Merge_Strings_Alternately\\Merge_Strings_Alternately.cpp",
+              "RelativeToolTip": "Merge_Strings_Alternately\\Merge_Strings_Alternately.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-17T10:51:56.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
