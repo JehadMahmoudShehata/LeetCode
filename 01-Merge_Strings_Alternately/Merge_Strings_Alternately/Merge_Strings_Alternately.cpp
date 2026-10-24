@@ -1,6 +1,15 @@
 #include <iostream>
+#include<string>
 
 using namespace std;
+
+class Solutin
+{
+
+public:
+
+
+};
 
 int main()
 {
