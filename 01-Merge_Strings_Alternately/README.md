@@ -6,15 +6,16 @@ You are given two strings `word1` and `word2`. Merge the strings by adding lette
 ---
 
 ## 🎨 Visual Explanation (Cases & Logic)
-Here is a visual breakdown of how the algorithm handles different string length cases:
+Here is a visual breakdown of how the algorithm handles different string length cases (Click on the image to view it full size):
 
-[![Merge Strings Alternately Cases](./#Problem1.png)
+[![Merge Strings Alternately Cases](./Problem1.png)](./Problem1.png)
+
 ---
 
-## 🧠 Pseudocode & Complexity
+## 🧠 Approach, Pseudocode & Complexity
 Instead of complex multi-loop approaches, we use a single-pass `while` loop with a pointer `i` that iterates through both strings simultaneously.
 
-'''text
+```text
 Algorithm MergeAlternately(Word1, Word2)
     // Input: Two strings Word1 and Word2
     // Output: A single merged string alternating characters
@@ -43,7 +44,8 @@ Algorithm MergeAlternately(Word1, Word2)
     
     Return Merge
 End Algorithm
-'''
+```
+
 ### Complexity Analysis
 | Metric | Complexity | Explanation |
 | :--- | :--- | :--- |
