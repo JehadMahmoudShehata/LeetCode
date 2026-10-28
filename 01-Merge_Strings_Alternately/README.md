@@ -51,3 +51,13 @@ End Algorithm
 | :--- | :--- | :--- |
 | **Time Complexity** | $O(N + M)$ | Where $N$ and $M$ are the lengths of `word1` and `word2`. The loop visits each character of both strings once. |
 | **Space Complexity** | $O(1)$ | Auxiliary space used is constant, as we only use a pointer variable `i` (ignoring the output string). |
+
+### 💡 Advanced Optimizations & C++ Best Practices
+
+To achieve optimal performance and memory management in C++, the following optimizations were applied:
+
+1. **Memory Reservation (`reserve`):**
+   * Instead of letting the dynamic string reallocate memory multiple times as it grows (which causes hidden overhead), `result.reserve(word1.size() + word2.size());` pre-allocates the exact required memory space in the RAM right at the beginning. This eliminates redundant memory allocations and copying.
+
+2. **Unsigned Size Types (`size_t`):**
+   * The index pointer `i` is declared as `size_t` rather than a standard `int`. Since string sizes and indices cannot be negative, `size_t` matches the exact return type of `.size()` in C++, preventing compiler warnings on signed/unsigned comparisons and ensuring optimal performance across 32-bit/64-bit architectures.
